@@ -1,0 +1,3 @@
+/home/here/github/cplus/build/CMakeFiles/rebuild_cache.dir
+/home/here/github/cplus/build/CMakeFiles/edit_cache.dir
+/home/here/github/cplus/build/CMakeFiles/Demo.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Demo.dir/main.cpp.o CMakeFiles/Demo.dir/addressbook.cpp.o CMakeFiles/Demo.dir/carplatform.cpp.o CMakeFiles/Demo.dir/carmodelb.cpp.o CMakeFiles/Demo.dir/carmodelc.cpp.o CMakeFiles/Demo.dir/fleetcar.cpp.o -o Demo 
